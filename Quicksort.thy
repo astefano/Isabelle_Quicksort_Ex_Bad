@@ -4,7 +4,7 @@
 
 section \<open>Quicksort with function package\<close>
 
-theory Quicksort
+theory QuicksortBad
 imports "HOL-Library.Multiset"
 begin
 
